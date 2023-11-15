@@ -1,0 +1,17 @@
+<svg id="SOL_32x32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.045" y1="0.991" x2="0.933" y2="0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#383a3b"/>
+      <stop offset="0.259" stop-color="#191a1d"/>
+      <stop offset="1" stop-color="#3f414e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" x2="-0.172" y2="1.275" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07ca91"/>
+      <stop offset="1" stop-color="#b903fb"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_19570" data-name="Group 19570" transform="translate(0 0)">
+    <rect id="Rectangle_5229" data-name="Rectangle 5229" width="32" height="32" rx="16" transform="translate(0 32) rotate(-90)" fill="url(#linear-gradient)"/>
+    <path id="Path_48040" data-name="Path 48040" d="M4.819,11.266a.575.575,0,0,1,.41-.185h12.9a.283.283,0,0,1,.205.474L15.6,14.591a.575.575,0,0,1-.41.185H2.283a.283.283,0,0,1-.205-.474ZM18.343,8.75a.283.283,0,0,1-.205.474l-12.9.01a.574.574,0,0,1-.41-.185L2.073,6.025a.283.283,0,0,1,.205-.474l12.9-.01a.575.575,0,0,1,.41.185ZM4.819.185A.575.575,0,0,1,5.229,0l12.9.01a.283.283,0,0,1,.205.474L15.6,3.509a.575.575,0,0,1-.41.185H2.283a.283.283,0,0,1-.205-.474Z" transform="translate(5.792 8.612)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

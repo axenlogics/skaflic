@@ -1,0 +1,113 @@
+/* .mainHEad{
+    background: linear-gradient(135deg, #0053ff 50%, #d55784 60%);
+    font-size: 36px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 30px;
+  } */
+  /* .blogchbox{
+    max-width: 520px;
+    width: 100%;
+    height: auto;
+    padding: 29px 52px 24px 54px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.06);
+    background-image: linear-gradient(to bottom, #4568bb, #172967);
+  } */
+  /* .dflex{
+    display: flex;
+    justify-content: center;
+  } */
+  /* .boxcontent div h5{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    padding-bottom: 17px;
+  }
+  .boxcontent div span{
+    font-size: 21px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  .boxcontent div img{
+    height: 215.4px;
+    width: 300px;
+    vertical-align: middle;
+  }
+  .boxcontent div:nth-child(2) {
+    text-align: right;
+  }
+  .boxcontent p{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    margin: 0;
+  } */
+  /* .comanbox{
+    max-width: 520px;
+    height: 180px;
+    width: 100%;
+    padding: 29px 35px 32.1px 35px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .glossbox{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.06);
+    background-image: linear-gradient(to bottom, #12d7a6, #08ae6d);
+  }
+  .Analysisbox{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.06);
+    background-image: linear-gradient(to bottom, #959ef3, #5c65e4);
+  } */
+  /* .glossbox div img{
+    width: 128px;
+    height: 115.9px;
+    vertical-align: middle; 
+    margin-right: 112px;
+  }
+  .Analysisbox div img{
+    width: 128px;
+    height: 133.9px;
+    vertical-align: middle; 
+    margin-right: 112px;
+  } */
+  .comanbox div h6{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    padding-bottom: 20px;
+  }
+  .comanbox div p{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  /* .pr40{
+    padding-right: 40px;
+  } */
+  /* .pb40{
+    padding-bottom: 44px;
+  } */
+  /* .wid520{
+    width: 100%;
+    max-width: 520px;
+  } */
+  /* .pb160{
+    padding-bottom: 143px;
+  } */

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.17" y1="0.141" x2="0.767" y2="0.982" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e9e9e9"/>
+    </linearGradient>
+  </defs>
+  <g id="DERI_32x32" transform="translate(-6.115 -6.115)">
+    <g id="Group_19536" data-name="Group 19536" transform="translate(6.115 6.115)">
+      <circle id="Ellipse_2708" data-name="Ellipse 2708" cx="16" cy="16" r="16" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_22013" data-name="Group 22013" transform="translate(10.822 11.852)">
+      <path id="Path_47442" data-name="Path 47442" d="M-3707.437-2347.713v13.605l5.695-3.319,2.958,1.765-11.8,6.747v-17.007Z" transform="translate(3714.878 2347.713)" fill="none" stroke="#246cad" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_47443" data-name="Path 47443" d="M3.152,0V13.605l5.695-3.319L11.8,12.051,0,18.8V1.792Z" transform="translate(23.75 9.399) rotate(120)" fill="none" stroke="#246cad" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_47444" data-name="Path 47444" d="M3.152,0V13.605l5.695-3.319L11.8,12.051,0,18.8V1.792Z" transform="translate(5.902 21.59) rotate(-120)" fill="none" stroke="#246cad" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

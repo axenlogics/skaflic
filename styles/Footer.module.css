@@ -1,0 +1,161 @@
+/* .mainfooter{
+    height: 546px;
+    padding: 46px 60px 30px 59.5px;
+    background-color: #101123;
+}
+.footer{
+    display: flex;
+} */
+/* .footer > div{
+    flex: 1 ;
+} */
+/* .colset div h6{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2152fa;
+    margin-bottom: 26px;
+}
+.colset div a{
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #cccfd5;
+} */
+/* .colset div:nth-child(2) div{
+    padding-bottom: 16px;
+}
+.colset div.sooncolor a{
+    color: #4b4f59;
+}
+.azulclr{
+    color: #2152fa;
+    font-weight: bold;
+} */
+/* .dflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    height: 42px;
+    flex-shrink: 0 !important;
+} */
+/* .socialicons{
+    display: flex;
+    justify-content: right;
+    padding-top: 30px;
+    flex-shrink: 0;
+} */
+/* .submail div span:nth-child(1){
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2152fa;
+    margin-right: 12px;
+} */
+/* .submail{
+    text-align: right;
+    max-width: 280px;
+    width: 100%;
+} */
+/* .submail div:nth-child(1){
+    padding-top: 181px;
+    padding-bottom: 23px;
+} */
+/* .footinput input{
+    max-width: 269px;
+    width: 100%;
+    height: 30px;
+    padding: 5px 6px 5px 15.5px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.08);
+    background-color: #16182f;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #4e525c;  
+    border: 1px solid #16182f;
+}
+.footinput span{
+    width: 20px;
+    height: 20px;
+    background-color: #2072ef;
+    border-radius: 50%;
+    position: absolute;
+    right: 6px;
+    top: 5px;
+    cursor: pointer;
+}
+.footinput{
+    position: relative;
+}
+.footinput span img{
+    position: absolute;
+    right: 3px;
+    top: 4.7px;
+} */
+/* .footbottom{
+    padding-top: 73px;
+    color: wheat;
+    border-bottom: 1px solid;
+    border-image-source: linear-gradient(to left, #f9595f 5%, #2152fa);
+    border-image-slice: 1;
+    display: flex;
+    justify-content: space-between;
+} */
+/* .footbottom > div:nth-child(1){
+    font-size: 12px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #525760;
+    padding-bottom: 5px;
+    align-self: end;
+}
+.footbottom div:nth-child(2){
+    display: flex;
+    padding-bottom: 5px;
+}
+.footbottom div:nth-child(3){
+        margin-right: 0px !important;
+}
+.footbotcontent{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a6a6a6;
+}
+.footbotcontent span{
+    font-weight: normal;
+} */
+.appstore > div:nth-child(2){
+    margin-left: 33px;
+}
+/* .socialicons div{
+    margin-left: 33px;
+} */
+/* .heart{
+    margin:0 14px;
+} */
+/* .appimg a:nth-child(1){
+    padding-right: 33px;
+} */
+@media only screen and (max-width: 1435px) {
+    .appimg a:nth-child(1){
+        padding-right: 20px;
+    }
+}
+@media only screen and (max-width: 1370px) {
+    .appimg a:nth-child(1){
+        padding-right: 5px;
+    }
+}
+@media only screen and (max-width: 1300px) {
+    .appimg a img{
+        width: 100px;
+    }
+}

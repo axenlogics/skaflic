@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_5544" width="32" height="32" data-name="Group 5544" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1,.cls-5{fill:#fff}.cls-1{stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-3{clip-path:url(#clip-path-2)}.cls-4{fill:url(#linear-gradient)}
+        </style>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_359" cx="16" cy="16" r="16" class="cls-1" data-name="Ellipse 359"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_1893" d="M0 0h32v32H0z" data-name="Rectangle 1893"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1=".954" x2=".035" y1=".908" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#040723"/>
+            <stop offset="1" stop-color="#57596c"/>
+        </linearGradient>
+    </defs>
+    <g id="Mask_Group_3" class="cls-2" data-name="Mask Group 3">
+        <g id="DecoinSlack_180x180_ava" class="cls-3">
+            <path id="Rectangle_1892" d="M0 0h32v32H0z" class="cls-4" data-name="Rectangle 1892"/>
+        </g>
+    </g>
+    <path id="XRP_XRP_Direct_Faucets-53" d="M15.187 0h2.577L12.41 5.3a5 5 0 0 1-7.02 0L.036 0h2.57l4.073 4.03a3.168 3.168 0 0 0 4.443 0zM2.577 14.738H0l5.39-5.332a5 5 0 0 1 7.02 0l5.39 5.333h-2.577l-4.1-4.058a3.168 3.168 0 0 0-4.443 0z" class="cls-5" data-name="XRP (XRP) Direct Faucets-53" transform="translate(7 9)"/>
+</svg>

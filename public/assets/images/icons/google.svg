@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.228" height="22.943" viewBox="0 0 15.228 22.943">
+    <g id="prefix__Group_7867" data-name="Group 7867" transform="translate(-20.518 -15.557)">
+        <g id="prefix__Group_7649" data-name="Group 7649" transform="translate(-1017.5 -1107.422)">
+            <path id="prefix__check" d="M13.332 5.618L6.669 11.9 4 9.228" transform="translate(1038.5 1124.12)" style="stroke-linecap:square;stroke-width:2px;stroke:#00c896;fill:none"/>
+            <g id="prefix__Group_7865" data-name="Group 7865" transform="translate(0 -1469)">
+                <g id="prefix__smartphone" transform="translate(1033.869 2592)">
+                    <g id="prefix__Group_6087" data-name="Group 6087" transform="translate(5 1)">
+                        <g id="prefix__Ellipse_1054" data-name="Ellipse 1054" transform="translate(5.131 16)" style="stroke:#00c896;fill:none">
+                            <circle cx="1" cy="1" r="1" style="stroke:none"/>
+                            <circle cx="1" cy="1" r=".5" style="fill:none"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__airplay" transform="rotate(-90 29.009 10.491)">
+            <path id="prefix__Path_24797" d="M11.17 14.947H4.094A1.931 1.931 0 0 1 2 13.241V4.707A1.931 1.931 0 0 1 4.094 3h16.755a1.931 1.931 0 0 1 2.094 1.707v8.534a1.931 1.931 0 0 1-2.094 1.707" data-name="Path 24797" style="stroke-linejoin:round;stroke-linecap:square;stroke-width:2px;stroke:#00c896;fill:none"/>
+        </g>
+    </g>
+</svg>

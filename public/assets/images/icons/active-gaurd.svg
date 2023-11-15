@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="52px" viewBox="0 0 50 52" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="5" dy="5" />
+      <feGaussianBlur stdDeviation="5" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2019608 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <image width="40" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAsCAYAAAAXb/p7AAAABHNCSVQICAgIfAhkiAAABKtJREFUWIXNmcth2zgQhr/BruWbgxKUCmId8rjFriBOBVEqsF2BRxUkrsBOBbYrsHJbKQdqK1imgmBzi7Tm7IGkCL0oUVayOycKwuPjAPgxAwo7MJ+oz8ZyKtgZEETohRd6vYu+ZVdgBn6u41SEHnvcho6GXwpYB7ZkgNSMvtunFzqa/jRAn6jnHw7tgQsTjpZ0FAwugbbAm2XgArci3DWZ/lpAn6hnwkmW8VqEkxWDBoNL1+JjOZU+0XY2pivwzqC9tI1x64Q7WvTrlsAMoE+0zYSjDJ6JcWRwuLKh0Re4Y5/rugH8ULtmXCwDjSBGJvSd8ZkWo3gpiB/qoRkXwNEG6ymY8MkJt+G59uvqLoB+0aMso7tq+ufHwRiJ41yeDDSp9VQExe+MHrMjp7ADPcngROD1Gs+mcjBQmy80o+/gT/a53WbnNYId6iFwaMYb4DAGFghTQIEgLZ7uwkOPMZ+otzFJCeqi/8J/DQcwz+BWVfy/2C8D9F/0yA/0pGk7J5CWfewWqbJCYu4zuPFD7a6rX64/gdRFhd4nunNIn2jbMq7K31mNpC2x4LCpB+EneNHG3M94ZI+PdfUL2SkaE5wJX6cF40Zvt9YOhvphRtdaHK/VVamcZJA6Z4yoStrL2mxjftg7xTgrfzvjfCPRf4icJHx1SDXFGTzbCVyi7cysmkrhMrzS2qldxuBg5GhVHpQlcd42cDbmvmIj/f5Cz+raxCYSebDFyIWOpgIB8u1dt5N9ov5g0Luokwr7wVW8KaTF8aZwPtF2GbgIpKGjucwY3E1rTVgtphNOwDQzrg4GvYv5vw8GvZloWxzvGwUbk6qtGX0oThIn+Q8Ay3i3soMsliFT/0c1dblXTaPavaYxYxHRAOAcn6GIqPMkiG9Fwcqopog07uP40SFdWva5iEDyFzCuv7/S903gYgYAlzPkUxw6GqRwqYHnB91lnYSOBmlxLFQbK8OuYziB1O1z3gQOmFlaYvTLpTE96uQ3euWzUbl6BeTb6AwngguFGDcO24q0I2dxfJo+x5WeDPRbOZhzHNetoVJO4pPCwdvwUm+bwhUpwE0BlP79Up9GfUZvkee1+fMDC7s0ttDRtJjutCjqbQNXjPuhfBarGBYAXYuPU00U1sZvJaQTOt9fqm4D54fajXWTfWZeciFxPxioQu69Qmg7PysVmM8/gN78iy5E1IUXU8hPlmxSP9WPsWxSJfQC6bJZWAAMHQ3iqDTMOPNf9GjXcH6o3TjaEalUpBYQIDzXPhJtmIwbn2h7Z3CJtmNZwbhedaG0Mmlye2g01d7G3O8iJZiXp3XCvhIwdDSI8DaOdB4LWWyKmwhurbDXpp3hhY5EqrczONwWctk5LqyPdtbmxcXaiI/BErLdAK49D8eGwr7xDWusj0XDdJMkqLjeu4mPRJbo3Srb+Gah6DD2ZDsb81ccEy7C9U7N5s5r47zJqdP4Et0P9MTgKr6EFKMv+9V68om27QdXM9F1/nnivOnniW1v+RciGQCMa0TS+dv/TZfDzgALSJ9NUIzTNSNcuj102/P8UR9yIL8YsqzK5KKOU3G8b5qXzNujAUsrb/MBL0Zv00R9nf0LPhpte2PJCnUAAAAASUVORK5CYII=" id="img_1" />
+  </defs>
+  <g filter="url(#filter_1)">
+    <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" transform="matrix(0.5 0 0 0.5 10 10)" />
+  </g>
+</svg>

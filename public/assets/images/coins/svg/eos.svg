@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{fill:#fff}
+        </style>
+        <linearGradient id="linear-gradient" x1="-.074" x2="1.136" y1="-.075" y2="1.147" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#735fb4"/>
+            <stop offset="1" stop-color="#352248"/>
+        </linearGradient>
+    </defs>
+    <g id="Group_5543" data-name="Group 5543" transform="translate(-434 -1335)">
+        <rect id="Rectangle_3" width="32" height="32" class="cls-1" data-name="Rectangle 3" rx="16" transform="translate(434 1335)"/>
+        <g id="colored-eosio_n" transform="translate(443.272 1340.381)">
+            <g id="icons">
+                <g id="colored-eosio">
+                    <path id="Shape" d="M12.411 0L7.745 6.676 5.8 16.529l6.611 4.213 6.611-4.213-1.944-9.918zM8.846 6.871l3.565-5.121 3.565 5.121-3.565 11.278zM16.5 8.556l1.491 7.519-4.861 3.046zm-9.663 7.519l1.491-7.519L11.7 19.121z" class="cls-2" transform="translate(-5.8)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

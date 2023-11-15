@@ -1,0 +1,36 @@
+.ticker_items{
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-left: 42px;
+}
+.ticker_item{
+    flex: 1;
+}
+.ticker_item:nth-child(2) ~ .ticker_item{
+    text-align: right;
+}
+.ticker_label{
+    color: #8c8fae;
+    font-size:10px;
+    position: relative;
+    z-index: 2;
+    padding: 0 3px;
+}
+.ticker_val{
+    color: #8d90b0;
+    font-size:12px;
+    margin-top: 6px;
+}
+
+.tprange_low .ticker_label,
+.tprange_high .ticker_label{
+    position: relative;
+}
+
+
+
+
+.ticker_action{
+    padding-left: 25px;
+}

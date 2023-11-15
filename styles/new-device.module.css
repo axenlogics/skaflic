@@ -1,0 +1,48 @@
+.page_22{
+    background-color: #3d79ff;
+    min-height: 100vh;
+    padding: 25px 0;
+}
+.header_22{
+    padding-bottom: 28px;
+    text-align: center;
+}
+
+.logo_22 a{
+    display: inline-block;
+}
+
+.card_wrap{
+    max-width: 420px;
+    margin: 0 auto;
+}
+.card_body{
+    padding-top: 15px;
+}
+.card_text{
+    margin-bottom: 30px;
+}
+
+.notif{
+    margin-bottom: 35px;
+}
+
+.btn{
+    margin-top:20px;
+    font-weight: 700;
+    width: 100%;
+}
+.card_outertxt{
+    max-width: 308px;
+    margin: 18px auto 0; 
+}
+.card_outertxt p{
+    font-size: 16px;
+    color: #afc5f6;
+    text-align: center;
+    margin: 8px 0;
+}
+.card_outertxt .link{
+    font-weight: 700;
+    color: var(--color-white);
+}

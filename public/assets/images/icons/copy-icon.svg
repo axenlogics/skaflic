@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <image width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAALhJREFUSIntlFEKwjAQRB9Cej2tehCR4h0Fox/eJoL60Q1EmyXbGv0oDixNyexMM6QLc8ca8EAAHoUKwm2t4kuDqFZbi8FZyHvAGfgO6KTHWwxiLBbx1CTGlUWNzOP+ALUyVw1qZa4a1MpcNVA3Cnjve3lfTBAchb/Bzw0aed6+YeCAnayvOcKn1zStTY445UdrEtEAnICVRvZC7IwmDjhIz9HyNS3545bqTj8oTWgZN64v9CN+xngCraeDdn7Cz5UAAAAASUVORK5CYII=" id="img_1" />
+  </defs>
+  <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" />
+</svg>

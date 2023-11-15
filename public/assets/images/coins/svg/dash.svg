@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_4573" width="32" height="32" data-name="Group 4573" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{fill:#fff}
+        </style>
+        <linearGradient id="linear-gradient" x1="-.111" x2="1.155" y1="-.073" y2="1.128" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#3c7efc"/>
+            <stop offset="1" stop-color="#0044b2"/>
+        </linearGradient>
+    </defs>
+    <path id="Rectangle_3" d="M16 0A16 16 0 1 1 0 16 16 16 0 0 1 16 0z" class="cls-1" data-name="Rectangle 3"/>
+    <g id="Group" transform="translate(6.221 9.778)">
+        <path id="Shape" d="M19.549 1.848a2.173 2.173 0 0 0-.287-.957 1.363 1.363 0 0 0-.725-.656A2.128 2.128 0 0 0 17.516.01H4.267l-.949 2.867h12l-1.9 5.86h-12L.476 11.6h13.311a3.652 3.652 0 0 0 1.161-.226 7.838 7.838 0 0 0 1.161-.731 5.734 5.734 0 0 0 .949-.957 6.518 6.518 0 0 0 .585-1.1L19.4 3.015a2.081 2.081 0 0 0 .149-1.167z" class="cls-2" transform="translate(-.021 -.009)"/>
+        <path id="Shape-2" d="M8.323 4.787H.992L.006 7.536h7.406z" class="cls-2" data-name="Shape" transform="translate(-.006 -.368)"/>
+    </g>
+</svg>

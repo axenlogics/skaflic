@@ -1,0 +1,194 @@
+/* .ordertble thead{
+    border-bottom: none;
+}
+.ordertble thead tr th{
+    background-color: white;
+    text-align: left;
+    font-size: 12px;
+    color: #777e91;
+    font-weight: 500px;
+    padding: 25px 0px 9px 15px;
+}
+.ordertble tbody tr td{
+    padding:12px 8px 12px 16px;
+    font-size: 14px;
+    color: var(--color-dark1);
+    letter-spacing: 0;
+    text-align: left;
+    font-weight: 500;
+}
+.ordertble thead tr th:nth-child(1){
+    width: 166.33px;
+    text-align: left;
+}
+.ordertble thead tr th:nth-child(2){
+    width: 109.84px;
+    text-align: left;
+}
+.ordertble thead tr th:nth-child(3){
+    width: 84.89px;
+    text-align: left;
+}
+.ordertble thead tr th:nth-child(4){
+    width: 82.69px;
+    text-align: left;
+}
+.ordertble thead tr th:nth-child(5){
+    width: 146.44px;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(6){
+    width: 135.69px;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(7){
+    width: 78.67px;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(8){
+    width: 146.72px;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(9){
+    width: 146.44px;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(10){
+    width: 117.39px;
+    padding-right: 0;
+    text-align: right;
+}
+.ordertble thead tr th:nth-child(11){
+    width: 125.92px;
+    text-align: left;
+}
+.ordertble thead tr th:nth-child(12){
+    width: 72.98px;
+    text-align: left;
+    padding-right: 15px;
+}
+.ordertble tbody tr td:nth-child(2){
+    font-weight: bold;
+}
+.ordertble tbody tr td:nth-child(5),
+.ordertble tbody tr td:nth-child(6),
+.ordertble tbody tr td:nth-child(7),
+.ordertble tbody tr td:nth-child(8){
+    text-align: right;
+}
+.ordertble tbody tr td:nth-child(12){
+    text-align: center;
+}
+.ordertble tbody tr td:nth-child(8){
+    text-align: center;
+}
+.ordertble tbody tr td:nth-child(10){
+    text-align: center;
+}
+.ordertble tbody tr td:nth-child(11){
+    text-align: right;
+    position: relative;
+} */
+/* .ordertble>tbody>tr:nth-child(odd)
+{
+    background-color: rgba(35,117,215,.04);
+}
+.ordertble tbody tr:nth-child(even)
+{
+    background-color: transparent;
+}
+.ordertble tbody tr:hover{
+    background-color: rgba(0,200,150,.04);
+}
+.ordertble tbody tr td:nth-child(4) span img{
+    margin-right: 7px;
+} */
+/* .ordertble tbody tr td:nth-child(4) span{
+    color: red;
+} */
+/* .colorsuccess{
+    color: var(--color-success);
+}
+.colordanger{
+    color: var(--color-danger);
+} */
+/* .circlesgreen{
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: var(--color-success);
+} */
+/* .statuspan{
+    display: flex;
+    align-items: center;
+} */
+/* .statuspan .circlesgreen{
+    margin-right: 10px;
+} */
+/* .orderinnertbl thead tr th:nth-child(1){
+    width: 260.63px;
+    text-align: left;
+}
+.orderinnertbl thead tr th:nth-child(2){
+    width: 220.33px;
+    text-align: right;
+}
+.orderinnertbl thead tr th:nth-child(3){
+    width: 200.06px;
+    text-align: right;
+}
+.orderinnertbl thead tr th:nth-child(4){
+    width: 266.68px;
+    text-align: right;
+}
+.orderinnertbl thead tr th:nth-child(5){
+    width: 178.61px;
+    text-align: right;
+}
+.orderinnertbl tbody tr td:nth-child(2),
+.orderinnertbl tbody tr td:nth-child(3),
+.orderinnertbl tbody tr td:nth-child(4){
+    text-align: right;
+}
+.orderinnertbl tbody tr td:nth-child(2){
+    font-weight: 500;
+}
+.orderinnertbl thead tr th{
+    padding: 5px 10px;
+} */
+/* .innercontent{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .pd1513{
+    padding: 15px 13px !important;
+}
+.innercontent div span{
+    font-weight: bold;
+}
+.lighttxt{
+    color: var(--brown-grey);
+    font-weight: normal !important;
+}
+.boldtxt{
+    font-weight: bold;
+}
+.panneltr{
+    background-color: white !important;
+    display: none;
+}
+.panneltr:hover{
+    background-color: white !important;
+}
+.ordertble tbody tr td:nth-child(12){
+    cursor: pointer;
+}
+.orderinnertbl tbody tr{
+    background-color: rgba(35,117,215,.04);
+}
+@media only screen and (max-width: 1600px) {
+    .ordertble tbody tr td{
+        font-size: 13px;
+        letter-spacing: 0.5px;
+    }
+  } */

@@ -1,0 +1,21 @@
+.otp_container{
+  justify-content: space-between;
+  margin: 0 -4.5px;
+}
+.otp_container > div{
+  flex: 1;
+  padding: 0 4.5px;
+}
+.otp_container input{
+  width: 100% !important;
+  height: 50px;
+  background-color: var(--color-e8effe);
+  border: 0;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.otp_container input:focus{
+  border: 0;
+  outline: 0;
+}

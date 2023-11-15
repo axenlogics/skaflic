@@ -1,0 +1,21 @@
+.tel_input .form_control {
+  font-size: 14px;
+  line-height: 2;
+  background: var(--color-e8effe);
+  width: 100%;
+  border:0;
+  color: var(--color-181a1e);
+  height: 40px;
+  border-radius: 6px;
+  
+}
+.form_control:focus {
+  outline: 0;
+  /* box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%); */
+}
+
+.tel_input .dropBtn{
+  background: transparent;
+  border: 0;
+}
+

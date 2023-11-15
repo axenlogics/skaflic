@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="183.005" height="196.005" viewBox="0 0 183.005 196.005">
+    <defs>
+        <linearGradient id="6936vp8xsa" x1=".5" x2=".5" y1="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ebfffa"/>
+            <stop offset="1" stop-color="#c3faec" stop-opacity=".969"/>
+        </linearGradient>
+        <linearGradient id="qn4e9u5zac" y1="0" y2="1" xlink:href="#6936vp8xsa"/>
+        <filter id="xe6l42gprb" width="169.005" height="169.005" x="7" y="27" filterUnits="userSpaceOnUse">
+            <feOffset dy="20"/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-color="#00c896" flood-opacity=".059"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g transform="translate(-977.457 -2721) translate(1014.457 2758)">
+            <circle cx="91.502" cy="91.502" r="91.502" fill="url(#6936vp8xsa)" opacity="0.24" transform="rotate(180 73.002 73.002)"/>
+            <g filter="url(#xe6l42gprb)" transform="translate(-37 -37)">
+                <circle cx="54.502" cy="54.502" r="54.502" fill="url(#qn4e9u5zac)" transform="translate(37 37)"/>
+            </g>
+        </g>
+        <path fill="none" stroke="#42b2c0" stroke-linecap="square" stroke-width="4px" d="M40.752 4L16.327 28.449 9 21.122" transform="translate(-977.457 -2721) translate(1044.462 2796.278)"/>
+    </g>
+</svg>

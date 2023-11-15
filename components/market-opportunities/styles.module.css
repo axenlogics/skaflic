@@ -1,0 +1,174 @@
+/*.mainHEad{
+    background: linear-gradient(135deg, #0053ff 50%, #d55784 60%);
+    font-family: var(--font-ibm);
+    font-size: 36px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 30px;
+  }*/
+  /*.marketData{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -22.5px;
+  }*/
+  /*.marketcontaner{
+    padding: 0 30px;
+  }
+  .whitebox{
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.05);
+    padding: 18.3px 15px 16.1px 21px;
+    background-color: white;
+  }
+  .marketData > div{
+    max-width:33.33%;
+    flex-basis: 33.33%;
+    width: 100%;
+    padding: 0 22.5px;
+}*/
+/* .marketData > div{
+    padding-right: 45px;
+}
+.topcontent{
+    padding-bottom: 26px;
+}
+.topcontent span img{
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+.topcontent span{
+    display: inline-block;
+    vertical-align: middle;
+}
+.topcontent span h6{
+    font-family: var(--font-ibm);
+    font-size: 16px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171a1e;
+    margin: 0;
+    padding-left: 11px;
+}
+.labels{
+    display: flex;
+    padding-bottom: 8px;
+}
+.labels div{
+    font-family: var(--font-ibm);
+    font-size: 10px;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a2a2a2;
+}
+.wid227{
+    width: 227px;
+    padding-left: 7px;
+}
+.wid82{
+    width: 82px;
+}
+.wid55{
+    width: 55px;
+}
+.pairs div img{
+    height: 32px;
+    width: 32px;
+    vertical-align: middle;
+}*/
+/*.pairs{
+    display: flex;
+    width: 227px;
+}
+.mainparent{
+    display: flex;
+    padding-bottom: 10px;
+}
+.lastprice{
+    width: 82px;
+    height: 32px;
+}
+.pairtext{
+    font-family: var(--font-ibm);
+    font-size: 14px;
+    font-weight: 500;
+    color: #171a1e;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.pairsmall{
+    font-family: var(--font-ibm);
+    font-size: 10px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a2a2a2;
+}
+.greenprice{
+    font-family: var(--font-ibm);
+    font-size: 14px;
+    font-weight: 500;
+    color: #0ec980;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.surge .greenprice{
+    vertical-align: -webkit-baseline-middle;
+}
+.redprice{
+    color: #e94158;
+}
+.pr12{
+    padding-right:12px;
+}
+.btn1{
+    max-width: 66px;
+    width: 100%;
+    height: 32px;
+    padding: 0px 15px 0px 14px;
+    border-radius: 2px;
+    background-color:#0ec980;
+    border: 1px solid #0ec980;
+    font-family: var(--font-ibm);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color:#fff;
+}*/
+.btn2{
+    max-width: 66px;
+    width: 100%;
+    height: 32px;
+    padding: 0px 15px 0px 14px;
+    border-radius: 2px;
+    background-color:#e94158;
+    border: 1px solid #e94158;
+    font-family: var(--font-ibm);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color:#fff;
+}
+.wid64{
+    width: 64px;
+}
+.belowtext{
+    padding-top: 18px;
+    text-align: center;
+}
+.belowtext a{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #d1d1d1;
+}

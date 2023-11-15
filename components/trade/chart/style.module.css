@@ -1,0 +1,6 @@
+.tradingchart{
+    height: 300px;
+}
+.tradingchart iframe{
+    height: 100% !important;
+}

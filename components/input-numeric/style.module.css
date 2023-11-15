@@ -1,0 +1,106 @@
+
+.input_group {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: var(--color-ffffff14);
+  border-radius: 3px;
+}
+.input_prepend{
+  padding-left: 6px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.input_prepend span{
+  display: block;
+  line-height: 1.5;
+}
+.input_prepend .ptxts{
+  font-size: 11px;
+  color: var(--color-mute);
+}
+.input_prepend .ptxtl{
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-transform: uppercase;
+}
+.input_field{
+  flex: 1;
+  width: 1%;
+  position: relative;
+}
+
+.form_control {
+  display: block;
+  width: 100%;
+  padding: 6px 32px 6px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.75;
+  height:38px;
+  color: #fff;
+  font-family: var(--font-ibm);
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.form_control:focus {
+  outline: 0;
+}
+.form_control::placeholder {
+  color: var(--color-mute);
+  opacity: 1;
+}
+
+.form_control:-ms-input-placeholder {
+  color: var(--color-mute);
+}
+
+.form_control::-ms-input-placeholder {
+  color: var(--color-mute);
+}
+
+/* Chrome, Safari, Edge, Opera */
+.form_control::-webkit-outer-spin-button,
+.form_control::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.form_control{
+  appearance: none;
+  -moz-appearance: textfield;
+}
+
+.spin{
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.spin_btn{
+  display: block;
+  padding: 0 5px;
+  height: 50%;
+  background-color: transparent;
+  border: 0;
+  min-width: 30px;
+  border-left: 1px solid  var(--color-1e2136);
+  border-top-right-radius: 3px;
+  
+}
+.spin_btn:last-child{
+  border-top: 1px solid  var(--color-1e2136);
+  border-bottom-right-radius: 3px;
+}
+.spin_icon{
+  font-size: 14px;
+  color: var(--color-mute)
+}
+

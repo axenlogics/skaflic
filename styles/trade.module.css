@@ -1,0 +1,128 @@
+.subpanel{
+    padding: 10px;
+    border-radius: 3px;
+    border: solid 1px var(--color-1e2136);
+    background-color:#16182f;
+    color: #fff;
+}
+
+.trademain{
+    background-color: var(--color-dark);
+    padding: 9px 18px;
+}
+
+.ticker_panel{
+    display: flex;
+    padding:8.5px 10px 8.5px 15px;
+}
+
+.chart_panel{
+    margin-top: 10px;
+}
+.myorder_panel{
+    margin-top: 10px;
+    position: relative;
+}
+.buysell_panel{
+    margin-top: 10px;
+    position: relative;
+}
+
+.omtab_list{
+    display: flex;
+    border-radius: 3px;
+    background-color: #232842;
+    list-style: none;
+    cursor: pointer;
+}
+.omtab{
+    font-size: 16px;
+    padding: 10px;
+    line-height: 1.3;
+    flex: 1;
+    text-align: center;
+    color: #8c8fae;
+    position: relative;
+}
+.omtab_icon{
+    position: absolute;
+    left: 17px;
+}
+.omtab_selected{
+    background-color: var(--color-primary);
+    border-radius: 3px;
+    color: var(--color-white);
+}
+
+.tradefooter{
+    border-top: 1px solid #232842;
+    padding: 6px 20px 3px;
+    background-color: #16182f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.market_stats,
+.tcon_stats{
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: var(--color-white)
+}
+.mstat_title{
+    color: #8d90b0;
+}
+.mstat_item:not(:first-child){
+    border-left: 1px solid #1e213a;
+}
+.mstat_item{
+    padding: 0 20px;
+    line-height: 15px;
+}
+.mstat_item span{
+    margin-right: 14px;
+}
+.mstat_item span:last-child{
+    color: #8c8fae;
+    margin-right: 0;
+}
+
+.tcon_stats{
+    display: flex;
+}
+.tcon_signal{
+    display: inline-flex;
+    align-items: center;
+}
+.tcon_signal img{
+    margin-right: 7px;
+}
+.tcon_stats .tcon_date{
+    color: #8c8fae;
+    margin: 0 16px 0 52px;
+}
+.tcon_stats .tcon_btn{
+    background: none;
+    border: 0;
+}
+
+@media screen and (min-width: 1200px){
+    .tradepanel{
+        display: flex;
+    }
+    .tradepanel > div{
+        flex: 1;
+    }
+    .tradepanel_right{
+        margin-left: 10px;
+        max-width: 550px;
+    }
+
+    .tradefooter{
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+}

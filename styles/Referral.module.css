@@ -1,0 +1,275 @@
+/* .banner{
+    height: 422px;
+    background-color: #2152fa; 
+    border-bottom-left-radius:40px;
+    border-bottom-right-radius:40px;
+    margin-bottom: 60px;
+}
+
+.dflex{
+    display: flex;
+    justify-content:space-between;
+    padding: 30px 65px 0;
+} */
+/* .bannertext{
+    font-size: 60px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    margin-bottom: 30px;
+} */
+/* .bannerul li{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.88;
+    letter-spacing: normal;
+    color: #e3e3e3;
+    list-style: none;
+} */
+/* .bannerul li span {
+    margin-right: 9px;
+    position: relative;
+    top: -2px;
+} */
+/* .aligself{
+    align-self: center;
+}
+.bannerimg{
+    position: relative;
+    top: -22px;
+} */
+/* .boxes{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -30px;
+}
+.whitebox{
+    height: auto;
+    padding: 36px 14px 43px 24px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0 rgba(188, 188, 188, 0.1);
+    background-color: #fff;   
+}
+.boxes > div{
+    max-width: 50%;
+    flex-basis: 50%;
+    width: 100%;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.pb98{
+    padding-bottom: 98px;
+}
+.boxcontent h6{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171a1a;
+    padding-bottom: 11px;
+}
+.boxcontent{
+    border-bottom: 1px solid #e8e8e8;
+}
+.boxbody1 div h6{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--color-dark2);
+}
+.boxbody1 div p{
+    font-size: 21px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--color-azul);
+}
+.boxbody1{
+    display: flex;
+    padding: 50px 24px 6px;
+    max-width: 526px;
+    margin: 0 auto;
+} */
+/* .boxbody1 div:nth-child(1){
+    margin-right:74px
+    max-width: 140px;
+}
+.boxbody1 div:nth-child(2){
+    max-width: 168px;
+    margin-left: auto;
+} */
+/* .boxbottom{
+    max-width: 526px;
+    height: 60px;
+    padding: 21px 24px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0 rgba(188, 188, 188, 0.1);
+    background-color: #f6faff;
+    position: relative;    
+    margin: 0 auto;
+} */
+/* .bottomcontent div{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--brown-grey);
+}
+.bottomcontent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+/* .bottomcontent div:nth-child(2){
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: var(--color-dark1);
+} */
+/* .bottomcontent div:nth-child(2) span {
+    position: relative;
+    margin-left: 16px;
+}
+.bgwhite{
+    background-color: #fff;
+    box-shadow: none;
+} */
+/* .bottomcontent div:nth-child(2) span.qrimg{
+    position: absolute;
+    right: 24px;
+    top: 13px;
+} */
+/* .boxbottom.padcustom{
+    padding: 12px 24px;
+}
+.boxcontent.custhead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 13px;
+}
+.boxcontent.custhead p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #777e91;
+}
+.whitebox.whiteboxset .boxcontent h6{
+    padding: 0;
+    margin: 0;
+}
+.whitebox.whiteboxset
+{
+    padding-top: 25px;
+}
+.boxcontent.custhead p span{
+    background: linear-gradient(135deg, #0053ff 50%, #d55784 60%);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 10px;
+} */
+/* .mainHEad{
+    background: linear-gradient(135deg, #0053ff 50%, #d55784 60%);
+    font-family: var(--font-ibm);
+    font-size: 36px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 30px;
+  } */
+  /* .incomtable{
+    max-width: 1040px;
+    height: auto;
+    padding: 41px 60px 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0 rgba(188, 188, 188, 0.1);
+    background-color:#fff;
+    margin: 0 auto;
+  } */
+  /* .incomsection{
+    margin:100px auto;
+  } */
+  /* table.incometableset thead tr th div{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #777e91;
+    padding-bottom: 30px;
+    padding: 0 92px 30px;
+  }
+  .incometableset{
+    width: 100%;
+    border-collapse: separate; 
+    border-spacing: 0 10px; 
+    margin-top: -10px;
+  }
+  .incometableset tbody tr {
+    max-width: 920px;
+    width: 100%;
+    height: 80px;
+    padding: 28px 130px 29px 87.5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgba(188, 188, 188, 0.1);
+    background-color: #f6faff;
+  }
+  .incometableset tbody tr td{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--color-dark1);
+    padding: 28px 0;
+    border-style: solid none;
+  }
+  .incometableset tbody tr td:first-child{
+    border-left-style: solid;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .incometableset tbody tr td:last-child{
+    border-right-style: solid;
+    border-bottom-right-radius: 10px; 
+    border-top-right-radius: 10px; 
+  }
+  .incometableset tbody tr:nth-child(even){
+    background-color: transparent;
+    box-shadow: none;
+    border: solid 1px transparent;
+  } */
+  /* table.incometableset thead tr th:nth-child(1) div{
+    width: 369px;
+  }
+  table.incometableset thead tr th:nth-child(2) div{
+    width: 284px;
+  }
+  table.incometableset thead tr th:nth-child(3) div{
+    width: 220px;
+  } */
+  @media only screen and (max-width: 1260px) {
+  table.incometableset thead tr th div{
+    padding: 0 45px 30px;
+  }
+  .incomtable{
+    padding: 41px 25px 74px;
+  }
+}

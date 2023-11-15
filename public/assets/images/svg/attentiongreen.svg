@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+    <defs>
+        <linearGradient id="6xy55n7kob" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ebfffa"/>
+            <stop offset="1" stop-color="#c3faec"/>
+        </linearGradient>
+        <filter id="ag5285bjaa" width="82" height="82" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur" stdDeviation="5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#ag5285bjaa)" transform="translate(-175.5 -23.499) translate(175.5 23.498)">
+            <circle cx="26" cy="26" r="26" fill="url(#6xy55n7kob)" transform="translate(15 5)"/>
+        </g>
+        <path fill="#00c896" d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.011 8.011 0 0 1-8 8z" transform="translate(-175.5 -23.499) translate(204.5 42.5)"/>
+    </g>
+</svg>

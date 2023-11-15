@@ -1,0 +1,175 @@
+/* .dflex {
+    display: flex;
+    align-items: center;
+}
+
+.filterinput h6 {
+    font-size: 14px;
+    letter-spacing: 0.56px;
+    color: var(--color-dark);
+    margin: 0 10px;
+}
+
+.filterinput .spanfilter {
+    position: relative;
+}
+
+.filterinput div input {
+    border: 1px solid rgba(8, 12, 52, .12);
+    background-color: white;
+    height: 32px;
+    max-width: 124px;
+    width: 100%;
+    border-radius: 4px;
+    border-right: none;
+    outline: 0;
+    padding: 5px 8px;
+    font-size: 14px;
+    color: var(--color-dark);
+}
+
+.filterinput div span {
+    background-color: #fbfbfb;
+    max-width: 35px;
+    border: 1px solid rgba(8, 12, 52, .12);
+    height: 32px;
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+    position: absolute;
+    top: 0px;
+    right: 0;
+}
+
+.filterinput div span svg {
+    position: absolute;
+    top: 8px;
+    right: 9px
+}
+
+.btn {
+    height: 33px;
+    margin: 0 16px 0 20px;
+    border-radius: 3px;
+    padding: 0 37px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn.btnprimary {
+    color: #00c896;
+    border: 1px solid #00c896;
+    background-color: #fff;
+}
+
+.btn.btnprimary:hover {
+    background-color: #00c896;
+    color: white;
+}
+
+.btn.btndark {
+    background-color: white;
+    border: 1px solid #dedee3;
+}
+
+.btn.btndark:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.posrelative {
+    position: relative;
+}
+
+.exportbtn {
+    position: absolute;
+    right: 0;
+} */
+
+/* .exportbtn span img{
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
+/* .expbtn {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 10px 18px 10px 10px;
+}
+
+.expbtn img {
+    margin-right: 5px;
+    margin-top: -2px;
+}
+
+.expbtn:hover {
+    background-color: black;
+    color: white;
+}
+
+.dropdown {
+    position: absolute !important;
+    z-index: 3;
+} */
+/* .dropdown .simplebarscroll{
+    width: 200px;
+    background-color: white;
+    height: auto;
+    box-shadow: 0 5px 10px 0 rgb(11 12 25 / 4%);
+    border: 1px solid #dfdfe4;
+    background-color: #fbfbfb;
+    border-radius: 4px;
+    padding: 10px 0;
+}
+.dropdown ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 52px;
+    padding: 14px;
+    cursor: pointer;
+    position: relative;
+}
+.dropdown ul li:nth-child(odd){
+    background-color: #f6faff;
+}
+.dropdown ul li:nth-child(even){
+    background-color: transparent;
+}
+.dropdown ul li:hover{
+    background-color:rgba(0,200,150,.07);
+}
+.txtli{
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--color-dark);
+}
+.imgli{
+    margin-right: 12px;
+}
+.imgtick{
+    position: absolute !important;
+    right: 14px;
+} */
+.backdrop{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    pointer-events: auto;
+    -webkit-tap-highlight-color: transparent;
+    transition: opacity .9s cubic-bezier(.25,.25,.50,1);
+    opacity: 1;
+    visibility:visible;
+    /* opacity: 1;
+    visibility: visible; */
+}
+/* .backdrop.open{
+    opacity: 1;
+    visibility: visible;
+} */

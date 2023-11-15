@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="32" viewBox="0 0 28 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.135" y1="0.749" x2="0.878" y2="0.246" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e7a099"/>
+      <stop offset="1" stop-color="#602fab"/>
+    </linearGradient>
+  </defs>
+  <g id="LYXe_32x32" transform="translate(2985.17 1685.336)">
+    <path id="Polygon_523" data-name="Polygon 523" d="M24,0l8,14L24,28H8L0,14,8,0Z" transform="translate(-2957.17 -1685.336) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Group_22014" data-name="Group 22014" transform="translate(-2979.688 -1676.595)">
+      <path id="Path_47431" data-name="Path 47431" d="M-3445.031-435.517h8.217l-4.153,7.248h-8.3Z" transform="translate(3449.272 435.517)" fill="#fff"/>
+      <path id="Path_47432" data-name="Path 47432" d="M-3270.76-428.151l-4.24-7.366-4.153,7.248L-3275-420.9Z" transform="translate(3287.458 435.517)" fill="#efeeee"/>
+      <path id="Path_47433" data-name="Path 47433" d="M-3444.431-279.673l-4.24-7.366h8.276l4.152,7.366Z" transform="translate(3448.7 294.287)" fill="#dadbda"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+/* .agreementtabs div ul {
+    display: flex;
+    padding-bottom: 50px;
+    align-items: baseline;
+}
+
+.agreementtabs div ul li {
+    list-style: none;
+}
+.agreementtabs{
+    padding: 0 45px;
+}
+
+.selected>div {
+    font-size: 24px !important;
+    background: linear-gradient(135deg, #0053ff 50%, #d55784 60%);
+    font-weight: bold !important;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-bottom: 4px solid #1f4ff4 !important;
+    padding-bottom: 8px;
+    padding-right: 17.5px;
+    padding-left: 17.5px;
+}
+
+.agreementtabs div ul li div {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--color-brown-grey);
+    padding-right: 17.5px;
+    padding-left: 17.5px;
+    border-bottom: 4px solid transparent;
+    padding-bottom: 8px;
+}
+
+.content p {
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--color-dark1);
+    margin-bottom: 28px;
+} */

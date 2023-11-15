@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="24" viewBox="0 0 32 24">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#42b2c0;stroke-width:2px}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_17653" transform="translate(-129 -1179)">
+        <g id="Rectangle_5122" class="cls-1" transform="translate(129 1179)">
+            <rect width="32" height="24" class="cls-3" rx="3"/>
+            <rect width="30" height="22" x="1" y="1" class="cls-4" rx="2"/>
+        </g>
+        <g id="Group_17651" transform="translate(-13.017)">
+            <path id="Line_1756" d="M0 0L29 0" class="cls-1" transform="translate(143.517 1185.5)"/>
+            <path id="Line_1757" d="M0 0L8.017 0" class="cls-1" transform="translate(148.5 1189.5)"/>
+            <path id="Line_1758" d="M0 0L8.017 0" class="cls-1" transform="translate(148.5 1193)"/>
+        </g>
+        <g id="Group_17654" transform="translate(-2.017 -.5)">
+            <path id="Line_1757-2" d="M0 0L8.017 0" class="cls-1" transform="translate(148.5 1190)"/>
+        </g>
+        <g id="Ellipse_2544" class="cls-1" transform="translate(149 1192)">
+            <circle cx="3.5" cy="3.5" r="3.5" class="cls-3"/>
+            <circle cx="3.5" cy="3.5" r="2.5" class="cls-4"/>
+        </g>
+    </g>
+</svg>
